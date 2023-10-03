@@ -1,4 +1,4 @@
-alert('Hello, Ryota!');
+alert('Hello,Ryota!');
 alert(1+1);
 alert(Math.sprt(1+1));
 alert(Math.sqrt(2+3));
